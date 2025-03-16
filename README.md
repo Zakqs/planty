@@ -1,2 +1,0 @@
-# planty
-projet planty openclassroom
